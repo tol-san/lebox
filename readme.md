@@ -1,7 +1,7 @@
 # Letterboxd Clone
 
 
-*** Command to run ***
+***Command to run***
 - ``` npm install tailwindcss @tailwindcss/cli ```
 - ``` npm run dev ```
 
